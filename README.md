@@ -20,7 +20,7 @@ Uma calculadora simples desenvolvida em HTML que permite realizar operações ma
 ### 📌 Status do Projeto  
 ✅ Concluído.
 
-## 📚 O que aprendi
+### 📚 O que aprendi
 
 - Criar e organizar um repositório no GitHub.  
 - Subir arquivos via GitHub.  
