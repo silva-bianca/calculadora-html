@@ -18,7 +18,13 @@ Uma calculadora simples desenvolvida em HTML que permite realizar operações ma
 3. Clique duas vezes sobre o arquivo ou abra-o diretamente em um navegador de sua preferência.  
 
 ### 📌 Status do Projeto  
-✅ Concluído.  
+✅ Concluído.
+
+## 📚 O que aprendi
+
+- Criar e organizar um repositório no GitHub.  
+- Subir arquivos via GitHub.  
+- Boas práticas de organização e versionamento.  
 
 ### 👩‍💻 Autor  
 - **Bianca da Silva Lima**  
